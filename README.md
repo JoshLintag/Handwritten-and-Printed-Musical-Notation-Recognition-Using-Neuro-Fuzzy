@@ -30,3 +30,7 @@ CNFS - Concurrent Neuro-Fuzzy System
 Additional Key Words and Phrases:
 
 Music Notations
+
+Usage:
+1. Use Jupyter Notebook to download and compile the trained model.
+2. tf.predict(image) should do the trick
